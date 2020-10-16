@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+	<link href="style2.css" rel="stylesheet" type="text/css">
+	<span style="font-size:30px;">
+	<a href="http://test1.ru/?s="style="text-decoration: none;">Аниме картинки</a>
+	<span style="font-size:17px;">
+<ul id="navbar">
+	<li><a href="aqua.html">Аква</a></li> 
+	<li><a href="#">Акэно Химэдзима</a></li>
+	<li><a href="#">Акико Тачибана</a></li>
+	<li><a href="#">Асуна Юки</a></li> 
+	<li><a href="#">Айло</a></li>
+	<li><a href="#">Вайолет Эвергарден</a></li> 
+	<li><a href="#">Викторика де Блуа</a></li> 
+	<li><a href="#">Генриетта де Тристейн</a></li>
+	<li><a href="#">Ёко Литтнер</a></li>
+	<li><a href="#">Ёцуги Ононоки</a></li> 
+	<li><a href="#">Конэко Тодзё</a></li>
+	<li><a href="#">Курису Макисе</a></li>
+	<li><a href="#">Луиза-Нулиза</a></li> 
+	<li><a href="#">Мегумин</a></li> 
+	<li><a href="#">Мей Мисаки</a></li>  
+	<li><a href="#">Миша Таканаши</a></li>
+	<li><a href="#">Надэко Сэнгоку</a></li>
+	<li><a href="#">Нико Язава</a></li>
+	<li><a href="#">Рем Галлеу</a></li>  
+	<li><a href="#">Рика фурудэ</a></li>
+	<li><a href="#">Рин Коконое</a></li> 
+	<li><a href="#">Рюри Меркьюри</a></li>
+	<li><a href="#">Сая Эндо</a></li>
+	<li><a href="#">Сырно</a></li>
+	<li><a href="#">Хитаги Сэндзёгахара</a></li>
+	<li><a href="#">Холо</a></li>  
+	<li><a href="#">Чайка Трабант</a></li>
+	<li><a href="#">Чинокафу</a></li>
+	<li><a href="#">Чокола</a></li> 
+	<li><a href="#">Шимаказе</a></li>
+	<li><a href="#">Шинобу Ошино</a></li>
+	<li><a href="#">Эльф Ямада</a></li>
+	<li><a href="#">Юи Курата</a></li>
+	<li><a href="#">Юно Гасай</a></li>                  
+</ul>
+
+<style>
+
+body {
+background: #ffffff url(images/bg.jpg);
+}
+</head>
+<body>
+
+</body>
+</html>

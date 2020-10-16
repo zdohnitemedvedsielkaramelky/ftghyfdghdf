@@ -1,0 +1,38 @@
+
+p{
+margin-left: 200px;	
+}
+
+a {
+	margin: 5px;
+	color: #ffffff;
+ }
+ a:link {
+    color: #ffffff; 
+    padding: 2px; 
+   }
+   a:hover { 
+    color: #ffffff;  
+   } 
+ }
+   .thumb img  {  
+
+   
+   }
+   .thumb{
+   	 padding-top:40px;
+   	 padding-left: 350px;
+   }
+   .toper{
+   	top: 10px;
+   	position: absolute;
+   }
+
+   .toper1{
+   	top: 30px;
+   	position: absolute;
+   }
+   .aeeee{
+    margin: 20px;
+
+   }
